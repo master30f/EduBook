@@ -1,0 +1,13 @@
+:root {
+    --background-color-primary: #36393f;
+    --background-color-secondary: #2f3136;
+    --background-color-secondary-alt: #292b2f;
+    --background-color-tertiary: #202225;
+    --background-color-accent: #4f545c;
+    --text-color-primary: #fff;
+    --text-color-secondary: #b9bbbe;
+    --text-color-tertiary: #72767d;
+    --accent-color-main: #7289DA;
+    --accent-color-messages: #F8A51A;
+    --accent-color-homework: #F04747;
+}
